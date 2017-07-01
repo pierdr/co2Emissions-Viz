@@ -36,6 +36,9 @@ void ofApp::setup(){
         
     }
     printf("hello");
+    
+    myfont.loadFont("sansserif_100.ttf", 10);
+    myfont.setGlobalDpi(360);
 }
 
 //--------------------------------------------------------------
@@ -45,30 +48,42 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    int xpos = 0;
+   // int xpos = 30;
     int ypos = 20;
-    int workingYOrigin = 0;
+    int workingXsize = 0;
     ofBackground(0, 0, 0);
     ofSetColor(255, 255, 255);
+    
+    string str = "number of countries: %f";
+    ofStringReplace(str, "%f", ofToString(co2byCountries.size()));
+    myfont.drawString(str,20,20);
+    
+    int prevWidth = 0;
+    int prevPosY = 0;
+    
     for (map<string, float>::iterator it=co2byCountries.begin(); it!=co2byCountries.end(); ++it){
-        // it->first contains the key
-        cout << " this is the key " << it->first << endl;
-        // it->second contains the value
-        workingYOrigin = ofMap(it->second, minCO2Value, maxCO2Value, 0, ofGetHeight()/2);
         
-            ofDrawRectangle(xpos, ofGetHeight()/2-workingYOrigin, ofGetWidth()/co2byCountries.size()-1, workingYOrigin);
-            xpos+= (ofGetWidth()-200)/co2byCountries.size();
-        if(workingYOrigin>15)
+        workingXsize = ofMap(it->second, minCO2Value, maxCO2Value, 0, ofGetWidth()-500);
+        
+        ofDrawRectangle(480, ypos, workingXsize, (ofGetHeight()-15)/co2byCountries.size() );
+        
+        if(workingXsize>15)
         {
-        
-            ofDrawBitmapString(it->first, xpos, ofGetHeight()/2+(ypos));
-
-            ypos+=20;
-            if(ypos>ofGetHeight()/2)
-            {
-                ypos = 20;
-            }
+            int xTmp = ((ypos-prevPosY<20 )?470-prevWidth:470);
+            ofPushMatrix();
+            
+            ofTranslate(xTmp-(myfont.stringWidth(it->first)), ypos);
+            //ofRotate(45);
+            myfont.drawString(it->first,0,0 );
+            ofPopMatrix();
+            ofSetLineWidth(0.5);
+            ofLine(xTmp+5,ypos,480,ypos);
+            
+            prevWidth = (ypos-prevPosY<20 )?prevWidth+myfont.stringWidth(it->first)+20:myfont.stringWidth(it->first)+20;
+            prevPosY = ypos;
         }
+        ypos+= (ofGetHeight()-15)/co2byCountries.size();
+
     }
 }
 

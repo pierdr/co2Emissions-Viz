@@ -35,5 +35,9 @@ class ofApp : public ofBaseApp{
     
         float maxCO2Value;
         float minCO2Value;
+    
+        ofTrueTypeFont myfont;
+    
+    
 		
 };

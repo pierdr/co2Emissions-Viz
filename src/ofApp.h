@@ -32,7 +32,7 @@ class ofApp : public ofBaseApp{
         vector<ofxCoordinates> containerOp;
     
         map<string, float> co2byCountries;
-    
+        vector<string> mostToleastBig;
         float maxCO2Value;
         float minCO2Value;
     

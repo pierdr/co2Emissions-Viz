@@ -35,7 +35,27 @@ void ofApp::setup(){
         }
         
     }
+    
+    for (map<string, float>::iterator it=co2byCountries.begin(); it!=co2byCountries.end(); ++it){
+            if(it->second>250000)
+            {
+                int indexTmp = 0;
+                for (int i=0;i<mostToleastBig.size();i++){
+                    
+                    if(it->second>co2byCountries[mostToleastBig[i]])
+                    {
+                        break;
+                        
+                    }
+                    indexTmp ++;
+                }
+                mostToleastBig.insert(mostToleastBig.begin()+indexTmp,ofToString( it->first));
+            }
+    }
     printf("hello");
+    
+    myfont.loadFont("sansserif_100.ttf", 8);
+    myfont.setGlobalDpi(360);
 }
 
 //--------------------------------------------------------------
@@ -45,31 +65,78 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    int xpos = 0;
-    int ypos = 20;
-    int workingYOrigin = 0;
+   // int xpos = 30;
+    int ypos = 50;
+    int workingXsize = 0;
     ofBackground(0, 0, 0);
-    ofSetColor(255, 255, 255);
-    for (map<string, float>::iterator it=co2byCountries.begin(); it!=co2byCountries.end(); ++it){
-        // it->first contains the key
-        cout << " this is the key " << it->first << endl;
-        // it->second contains the value
-        workingYOrigin = ofMap(it->second, minCO2Value, maxCO2Value, 0, ofGetHeight()/2);
+    
+    ofSetColor(255);
+    string str = "%f top polluters from 1751 to 2014 - billion metric tons of CO2 from fossil fuel";
+    ofStringReplace(str, "%f", ofToString(mostToleastBig.size()));
+   // myfont.drawString(str,30,30);
+    ofDrawBitmapString(str,30,30);
+    int prevWidth = 0;
+    int prevPosY = 0;
+    for( int i = 0; i < mostToleastBig.size(); i++){
+        //102,40,194
+        //48,76,221
         
-            ofDrawRectangle(xpos, ofGetHeight()/2-workingYOrigin, ofGetWidth()/co2byCountries.size()-1, workingYOrigin);
-            xpos+= (ofGetWidth()-200)/co2byCountries.size();
-        if(workingYOrigin>15)
-        {
+        workingXsize = ofMap(co2byCountries[mostToleastBig[i]], minCO2Value, maxCO2Value, 0, ofGetWidth()-500);
         
-            ofDrawBitmapString(it->first, xpos, ofGetHeight()/2+(ypos));
+        ofSetColor(ofMap(workingXsize,0,ofGetWidth()-500,48,102), ofMap(workingXsize,0,ofGetWidth()-500,76,40), ofMap(workingXsize,0,ofGetWidth()-500,221,76));
+        
+        ofDrawRectangle(300, ypos, workingXsize, 10 );
 
-            ypos+=20;
-            if(ypos>ofGetHeight()/2)
-            {
-                ypos = 20;
-            }
+        if(workingXsize>5)
+        {
+            int xTmp = ((ypos-prevPosY<10 )?285-prevWidth:285);
+            ofPushMatrix();
+
+            ofTranslate(xTmp-(myfont.stringWidth(mostToleastBig[i])), ypos+(((ofGetHeight()-60)/mostToleastBig.size())/2));
+            //ofRotate(45);
+            ofSetColor(255, 255, 255);
+            myfont.drawString(mostToleastBig[i],0,0 );
+            ofPopMatrix();
+            
+            ofSetColor(180);
+            myfont.drawString(ofToString((int)co2byCountries[mostToleastBig[i]]/1000),320+workingXsize,ypos+10);
+            
+            ofSetLineWidth(0.5);
+            ofSetColor(128,126);
+            //ofLine(xTmp+5,ypos,300,ypos);
+
+            prevWidth = (ypos-prevPosY<20 )?prevWidth+myfont.stringWidth(mostToleastBig[i])+20:myfont.stringWidth(mostToleastBig[i])+20;
+            prevPosY = ypos;
         }
+        ypos+= ((ofGetHeight()-60)/mostToleastBig.size());
+
     }
+//    for (map<string, float>::iterator it=co2byCountries.begin(); it!=co2byCountries.end(); ++it){
+//        ofSetColor(255, 255, 255);
+//        workingXsize = ofMap(it->second, minCO2Value, maxCO2Value, 0, ofGetWidth()-500);
+//        
+//        ofDrawRectangle(480, ypos, workingXsize, (ofGetHeight()-15)/co2byCountries.size() );
+//        
+//        if(workingXsize>15)
+//        {
+//            int xTmp = ((ypos-prevPosY<20 )?470-prevWidth:470);
+//            ofPushMatrix();
+//            
+//            ofTranslate(xTmp-(myfont.stringWidth(it->first)), ypos);
+//            //ofRotate(45);
+//            ofSetColor(255, 255, 255);
+//            myfont.drawString(it->first,0,0 );
+//            ofPopMatrix();
+//            ofSetLineWidth(0.5);
+//            ofSetColor(128,126);
+//            ofLine(xTmp+5,ypos,480,ypos);
+//            
+//            prevWidth = (ypos-prevPosY<20 )?prevWidth+myfont.stringWidth(it->first)+20:myfont.stringWidth(it->first)+20;
+//            prevPosY = ypos;
+//        }
+//        ypos+= (ofGetHeight()-15)/co2byCountries.size();
+//
+//    }
 }
 
 //--------------------------------------------------------------

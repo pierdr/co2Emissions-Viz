@@ -4380,9 +4380,9 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1945,Denmark,3833,3803,0,0,30,.,.,0
 1945,Ecuador,335,0,289,41,5,.,.,0
 1945,Egypt,1189,0,1130,0,59,.,.,0
-1945,Federal Republic Of Germany,31184,31184,0,0,0,.,.,0
+1945,Germany,31184,31184,0,0,0,.,.,0
 1945,Finland,175,117,21,0,38,.,.,0
-1945,Former German Democratic Republic,1,0,1,0,0,.,.,0
+1945,Germany,1,0,1,0,0,.,.,0
 1945,France,29250,28748,248,40,214,.,.,0
 1945,French Indo-china,1,.,.,.,1,.,.,0
 1945,Germany,492,0,455,37,0,.,.,0
@@ -4460,9 +4460,9 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1946,East & West Pakistan,205,205,0,0,0,.,.,0
 1946,Ecuador,301,0,257,39,5,.,.,0
 1946,Egypt,1153,0,1073,0,80,.,.,0
-1946,Federal Republic Of Germany,47762,47173,544,45,0,.,.,0
+1946,Germany,47762,47173,544,45,0,.,.,0
 1946,Finland,896,726,125,0,45,.,.,0
-1946,Former German Democratic Republic,26037,26037,0,0,0,.,.,0
+1946,Germany,26037,26037,0,0,0,.,.,0
 1946,France,45102,42793,1971,51,288,.,.,0
 1946,French Indo-china,195,190,0,0,5,.,.,0
 1946,Germany,353,.,.,.,353,.,.,0
@@ -4540,9 +4540,9 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1947,East & West Pakistan,212,170,42,0,0,.,.,0
 1947,Ecuador,316,0,260,51,4,.,.,0
 1947,Egypt,1205,0,1117,0,88,.,.,0
-1947,Federal Republic Of Germany,61568,61053,483,32,0,.,.,0
+1947,Germany,61568,61053,483,32,0,.,.,0
 1947,Finland,1488,1132,299,0,57,.,.,0
-1947,Former German Democratic Republic,25133,24715,0,0,418,.,.,0
+1947,Germany,25133,24715,0,0,418,.,.,0
 1947,France,50120,45838,3622,135,524,.,.,0
 1947,French Indo-china,194,188,0,0,5,.,.,0
 1947,Greece,46,21,0,0,25,.,.,0
@@ -4623,9 +4623,9 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1948,Ecuador,351,0,283,63,5,.,.,0
 1948,Egypt,1679,0,1575,0,104,.,.,0
 1948,Ethiopia,1,.,.,.,1,.,.,0
-1948,Federal Republic Of Germany,75711,72935,2644,28,104,.,.,0
+1948,Germany,75711,72935,2644,28,104,.,.,0
 1948,Finland,2309,1803,430,0,76,.,.,0
-1948,Former German Democratic Republic,27412,26631,0,0,781,.,.,0
+1948,Germany,27412,26631,0,0,781,.,.,0
 1948,France,53636,47113,5625,167,732,.,.,0
 1948,French Indo-china,273,260,0,0,13,.,.,0
 1948,Greece,369,199,133,0,38,.,.,0
@@ -4709,9 +4709,9 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1949,Ecuador,355,0,283,65,7,.,.,0
 1949,Egypt,2037,0,1916,0,121,.,.,0
 1949,Ethiopia,1,.,.,.,1,.,.,0
-1949,Federal Republic Of Germany,85971,84198,1615,22,136,.,.,0
+1949,Germany,85971,84198,1615,22,136,.,.,0
 1949,Finland,1347,916,342,0,89,.,.,0
-1949,Former German Democratic Republic,31984,30805,0,0,1179,.,.,0
+1949,Germany,31984,30805,0,0,1179,.,.,0
 1949,France,62521,53432,7986,227,876,.,.,0
 1949,French Indo-china,294,273,0,0,21,.,.,0
 1949,French West Africa,6,.,.,.,6,.,.,0
@@ -4807,12 +4807,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1950,Ethiopia,24,6,18,0,1,0,0,0
 1950,Faeroe Islands,11,9,2,0,0,0,0.35,0
 1950,Falkland Islands (malvinas),75,0,75,0,0,0,33.33,17
-1950,Federal Republic Of Germany,94786,91224,2047,7,1508,0,1.9,1425
+1950,Germany,94786,91224,2047,7,1508,0,1.9,1425
 1950,Federation Of Malaya-singapore,1421,346,1075,0,0,0,1.39,42
 1950,Fiji,33,7,26,0,0,0,0.11,5
 1950,Finland,1787,1295,390,0,101,0,0.45,3
 1950,Former Democratic Yemen,9,0,9,0,0,0,0.01,0
-1950,Former German Democratic Republic,44606,44393,18,5,190,0,2.43,0
+1950,Germany,44606,44393,18,5,190,0,2.43,0
 1950,Former Panama Canal Zone,53,0,51,2,0,0,.,573
 1950,Former Yemen,7,0,7,0,0,0,0,0
 1950,France,55215,45537,8575,122,980,0,1.32,1014
@@ -4957,12 +4957,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1951,Ethiopia,17,4,12,0,1,0,0,0
 1951,Faeroe Islands,11,7,4,0,0,0,0.34,0
 1951,Falkland Islands (malvinas),97,0,97,0,0,0,43.22,15
-1951,Federal Republic Of Germany,108587,104074,2814,5,1693,0,2.16,1675
+1951,Germany,108587,104074,2814,5,1693,0,2.16,1675
 1951,Federation Of Malaya-singapore,2098,373,1725,0,0,0,1.96,39
 1951,Fiji,36,14,23,0,0,0,0.12,7
 1951,Finland,2178,1650,414,0,113,0,0.54,3
 1951,Former Democratic Yemen,4,0,4,0,0,0,0,1
-1951,Former German Democratic Republic,48870,48428,209,10,222,0,2.66,0
+1951,Germany,48870,48428,209,10,222,0,2.66,0
 1951,Former Panama Canal Zone,54,0,52,2,0,0,.,587
 1951,Former Yemen,7,0,7,0,0,0,0,0
 1951,France,62435,51029,10149,152,1105,0,1.48,1507
@@ -5108,12 +5108,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1952,Ethiopia,27,3,23,0,1,0,0,0
 1952,Faeroe Islands,15,5,10,0,0,0,0.48,0
 1952,Falkland Islands (malvinas),69,0,69,0,0,0,30.72,27
-1952,Federal Republic Of Germany,115080,110085,3192,19,1785,0,2.27,1824
+1952,Germany,115080,110085,3192,19,1785,0,2.27,1824
 1952,Federation Of Malaya-singapore,2555,340,2215,0,0,0,2.28,34
 1952,Fiji,43,17,26,0,0,0,0.14,5
 1952,Finland,2363,1747,511,0,106,0,0.58,5
 1952,Former Democratic Yemen,8,0,8,0,0,0,0.01,0
-1952,Former German Democratic Republic,51689,51041,371,8,269,0,2.82,0
+1952,Germany,51689,51041,371,8,269,0,2.82,0
 1952,Former Panama Canal Zone,52,0,50,2,0,0,.,610
 1952,Former Yemen,8,0,8,0,0,0,0,0
 1952,France,61960,49626,11004,154,1176,0,1.46,1623
@@ -5261,12 +5261,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1953,Ethiopia,50,2,47,0,1,0,0,0
 1953,Faeroe Islands,23,5,18,0,0,0,0.72,0
 1953,Falkland Islands (malvinas),28,0,28,0,0,0,12.8,19
-1953,Federal Republic Of Germany,112933,106452,4295,56,2130,0,2.2,1494
+1953,Germany,112933,106452,4295,56,2130,0,2.2,1494
 1953,Federation Of Malaya-singapore,2585,266,2316,0,4,0,2.19,21
 1953,Fiji,46,14,32,0,0,0,0.14,6
 1953,Finland,2066,1349,589,0,127,0,0.5,3
 1953,Former Democratic Yemen,11,0,11,0,0,0,0.01,0
-1953,Former German Democratic Republic,57254,56535,379,6,333,0,3.14,0
+1953,Germany,57254,56535,379,6,333,0,3.14,0
 1953,Former Panama Canal Zone,28,0,27,2,0,0,.,616
 1953,Former Yemen,8,0,8,0,0,0,0,0
 1953,France,58566,45477,11680,143,1266,0,1.37,1512
@@ -5414,12 +5414,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1954,Ethiopia,74,10,59,0,4,0,0,0
 1954,Faeroe Islands,21,6,15,0,0,0,0.66,0
 1954,Falkland Islands (malvinas),80,0,80,0,0,0,35.94,10
-1954,Federal Republic Of Germany,119855,111427,6092,85,2251,0,2.31,1706
+1954,Germany,119855,111427,6092,85,2251,0,2.31,1706
 1954,Federation Of Malaya-singapore,2800,205,2583,0,12,0,2.26,18
 1954,Fiji,43,15,28,0,0,0,0.13,9
 1954,Finland,2499,1605,754,0,141,0,0.6,5
 1954,Former Democratic Yemen,1205,0,1205,0,0,0,1.13,2
-1954,Former German Democratic Republic,60224,59281,571,14,358,0,3.33,0
+1954,Germany,60224,59281,571,14,358,0,3.33,0
 1954,Former Panama Canal Zone,23,0,22,1,0,0,.,522
 1954,Former Yemen,11,0,11,0,0,0,0,0
 1954,France,61788,46981,13317,165,1325,0,1.43,1507
@@ -5570,12 +5570,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1955,Ethiopia,62,8,50,0,4,0,0,0
 1955,Faeroe Islands,27,6,22,0,0,0,0.86,0
 1955,Falkland Islands (malvinas),82,0,82,0,0,0,37.26,10
-1955,Federal Republic Of Germany,132583,122169,7724,179,2511,0,2.53,2109
+1955,Germany,132583,122169,7724,179,2511,0,2.53,2109
 1955,Federation Of Malaya-singapore,3009,197,2796,0,15,0,2.3,15
 1955,Fiji,47,13,34,0,0,0,0.14,13
 1955,Finland,2983,1799,1042,0,142,0,0.7,7
 1955,Former Democratic Yemen,666,0,666,0,0,0,0.61,2611
-1955,Former German Democratic Republic,64902,64046,431,20,404,0,3.62,0
+1955,Germany,64902,64046,431,20,404,0,3.62,0
 1955,Former Panama Canal Zone,22,0,20,1,0,0,.,526
 1955,Former Yemen,12,0,12,0,0,0,0,0
 1955,France,65236,48960,14634,198,1444,0,1.5,1597
@@ -5730,12 +5730,12 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1956,Ethiopia,66,8,54,0,4,0,0,0
 1956,Faeroe Islands,31,4,28,0,0,0,0.97,0
 1956,Falkland Islands (malvinas),85,0,85,0,0,0,38.98,8
-1956,Federal Republic Of Germany,142587,129802,9906,267,2611,0,2.69,2407
+1956,Germany,142587,129802,9906,267,2611,0,2.69,2407
 1956,Federation Of Malaya-singapore,3041,184,2842,0,14,0,2.21,23
 1956,Fiji,53,12,42,0,0,0,0.15,13
 1956,Finland,3322,1893,1298,0,131,0,0.78,8
 1956,Former Democratic Yemen,626,0,626,0,0,0,0.56,2057
-1956,Former German Democratic Republic,66551,65374,710,22,445,0,3.74,0
+1956,Germany,66551,65374,710,22,445,0,3.74,0
 1956,Former Panama Canal Zone,29,0,28,1,0,0,.,557
 1956,Former Yemen,10,0,10,0,0,0,0,0
 1956,France,73293,55052,16442,243,1556,0,1.67,1815
@@ -5891,11 +5891,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1957,Ethiopia,88,0,85,0,3,0,0,1
 1957,Faeroe Islands,26,2,23,0,0,0,0.78,0
 1957,Falkland Islands (malvinas),85,0,85,0,0,0,39.17,4
-1957,Federal Republic Of Germany,143609,129156,11598,250,2606,0,2.68,2161
+1957,Germany,143609,129156,11598,250,2606,0,2.68,2161
 1957,Fiji,45,4,40,0,0,0,0.12,16
 1957,Finland,3342,1838,1375,0,129,0,0.77,8
 1957,Former Democratic Yemen,800,0,800,0,0,0,0.71,1827
-1957,Former German Democratic Republic,68727,67398,821,37,471,0,3.9,0
+1957,Germany,68727,67398,821,37,471,0,3.9,0
 1957,Former Panama Canal Zone,42,0,41,1,0,0,.,522
 1957,Former Yemen,7,0,7,0,0,0,0,0
 1957,France,75750,56627,17095,313,1715,0,1.71,1539
@@ -6056,11 +6056,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1958,Ethiopia,87,7,76,0,4,0,0,2
 1958,Faeroe Islands,32,1,30,0,0,0,0.95,0
 1958,Falkland Islands (malvinas),100,0,100,0,0,0,45.96,6
-1958,Federal Republic Of Germany,136469,119218,14319,254,2677,0,2.52,1906
+1958,Germany,136469,119218,14319,254,2677,0,2.52,1906
 1958,Fiji,48,2,46,0,0,0,0.13,15
 1958,Finland,2896,1397,1373,0,126,0,0.66,7
 1958,Former Democratic Yemen,496,0,496,0,0,0,0.43,2881
-1958,Former German Democratic Republic,69992,68753,726,29,484,0,4,0
+1958,Germany,69992,68753,726,29,484,0,4,0
 1958,Former Panama Canal Zone,53,0,53,1,0,0,.,544
 1958,Former Yemen,18,0,18,0,0,0,0,0
 1958,France,72655,52085,18373,373,1824,0,1.63,1751
@@ -6227,11 +6227,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1959,Ethiopia,92,4,85,0,3,0,0,11
 1959,Faeroe Islands,27,1,26,0,0,0,0.81,0
 1959,Falkland Islands (malvinas),28,0,28,0,0,0,12.82,24
-1959,Federal Republic Of Germany,135672,113716,18509,297,3150,0,2.48,2006
+1959,Germany,135672,113716,18509,297,3150,0,2.48,2006
 1959,Fiji,54,7,47,0,0,0,0.14,19
 1959,Finland,3701,1980,1562,0,159,0,0.84,9
 1959,Former Democratic Yemen,690,0,690,0,0,0,0.58,2857
-1959,Former German Democratic Republic,70634,69322,712,27,572,0,4.07,0
+1959,Germany,70634,69322,712,27,572,0,4.07,0
 1959,Former Panama Canal Zone,84,0,84,1,0,0,.,560
 1959,Former Yemen,20,0,20,0,0,0,0.01,0
 1959,France,71492,49217,19595,776,1904,0,1.58,1537
@@ -6401,11 +6401,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1960,Ethiopia,96,7,85,0,4,0,0,15
 1960,Faeroe Islands,16,1,14,0,0,0,0.45,0
 1960,Falkland Islands (malvinas),53,0,53,0,0,0,24.6,33
-1960,Federal Republic Of Germany,148359,120826,23814,332,3387,0,2.68,2344
+1960,Germany,148359,120826,23814,332,3387,0,2.68,2344
 1960,Fiji,53,5,48,0,0,0,0.13,32
 1960,Finland,4119,1982,1966,0,171,0,0.93,10
 1960,Former Democratic Yemen,975,0,975,0,0,0,0.81,2846
-1960,Former German Democratic Republic,73822,72190,911,36,684,0,4.28,0
+1960,Germany,73822,72190,911,36,684,0,4.28,0
 1960,Former Panama Canal Zone,73,0,73,0,0,0,.,675
 1960,Former Yemen,16,0,16,0,0,0,0,0
 1960,France,73962,49356,21126,1552,1928,0,1.62,1583
@@ -6575,11 +6575,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1961,Ethiopia,93,7,82,0,4,0,0,17
 1961,Faeroe Islands,31,2,28,0,0,0,0.88,0
 1961,Falkland Islands (malvinas),42,0,42,0,0,0,19.64,15
-1961,Federal Republic Of Germany,150252,118462,27727,371,3692,0,2.68,2436
+1961,Germany,150252,118462,27727,371,3692,0,2.68,2436
 1961,Fiji,46,1,44,0,0,0,0.11,40
 1961,Finland,4074,1701,2189,0,183,0,0.91,11
 1961,Former Democratic Yemen,707,0,707,0,0,0,0.57,3053
-1961,Former German Democratic Republic,77633,75765,1119,33,717,0,4.53,0
+1961,Germany,77633,75765,1119,33,717,0,4.53,0
 1961,Former Panama Canal Zone,66,0,65,0,0,0,.,865
 1961,Former Yemen,20,0,20,0,0,0,0,0
 1961,France,76687,49598,22833,2163,2092,0,1.66,1824
@@ -6752,11 +6752,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1962,Ethiopia,108,6,96,0,6,0,0,18
 1962,Faeroe Islands,32,1,31,0,0,0,0.92,0
 1962,Falkland Islands (malvinas),13,0,13,0,0,0,5.93,15
-1962,Federal Republic Of Germany,159755,120621,34741,504,3889,0,2.81,2648
+1962,Germany,159755,120621,34741,504,3889,0,2.81,2648
 1962,Fiji,63,5,58,0,0,0,0.15,49
 1962,Finland,4584,1779,2621,0,185,0,1.02,10
 1962,Former Democratic Yemen,1041,0,1041,0,0,0,0.82,2975
-1962,Former German Democratic Republic,81322,79165,1386,33,739,0,4.76,0
+1962,Germany,81322,79165,1386,33,739,0,4.76,0
 1962,Former Panama Canal Zone,74,0,74,0,0,0,.,1113
 1962,Former Yemen,19,0,19,0,0,0,0,0
 1962,France,81458,50848,25771,2543,2296,0,1.74,1959
@@ -6930,11 +6930,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1963,Ethiopia,115,7,104,0,5,0,0,18
 1963,Faeroe Islands,34,3,31,0,0,0,0.95,0
 1963,Falkland Islands (malvinas),13,0,13,0,0,0,5.97,10
-1963,Federal Republic Of Germany,174409,126758,43023,655,3973,0,3.02,2601
+1963,Germany,174409,126758,43023,655,3973,0,3.02,2601
 1963,Fiji,66,5,61,0,0,0,0.15,43
 1963,Finland,5279,1889,3196,0,194,0,1.17,21
 1963,Former Democratic Yemen,774,0,774,0,0,0,0.6,3307
-1963,Former German Democratic Republic,83680,81126,1768,44,742,0,4.91,0
+1963,Germany,83680,81126,1768,44,742,0,4.91,0
 1963,Former Panama Canal Zone,152,0,152,0,0,0,.,1807
 1963,Former Yemen,22,0,22,0,0,0,0.01,0
 1963,France,91088,53907,32099,2616,2466,0,1.91,1891
@@ -7109,11 +7109,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1964,Ethiopia,111,1,104,0,6,0,0,17
 1964,Faeroe Islands,33,2,31,0,0,0,0.92,0
 1964,Falkland Islands (malvinas),3,0,3,0,0,0,1.6,5
-1964,Federal Republic Of Germany,178232,123294,49361,1003,4574,0,3.05,3068
+1964,Germany,178232,123294,49361,1003,4574,0,3.05,3068
 1964,Fiji,116,3,109,0,4,0,0.26,51
 1964,Finland,6232,2187,3831,0,214,0,1.37,9
 1964,Former Democratic Yemen,964,0,964,0,0,0,0.73,3387
-1964,Former German Democratic Republic,86254,82932,2496,41,784,0,5.07,0
+1964,Germany,86254,82932,2496,41,784,0,5.07,0
 1964,Former Panama Canal Zone,216,0,216,0,0,0,.,1944
 1964,Former Yemen,27,0,27,0,0,0,0.01,0
 1964,France,94165,51930,36565,2740,2929,0,1.95,2020
@@ -7293,11 +7293,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1965,Ethiopia,176,7,157,0,13,0,0.01,15
 1965,Faeroe Islands,37,2,35,0,0,0,1.02,0
 1965,Falkland Islands (malvinas),3,0,3,0,0,0,1.21,3
-1965,Federal Republic Of Germany,177427,114921,56398,1466,4642,0,3.01,3351
+1965,Germany,177427,114921,56398,1466,4642,0,3.01,3351
 1965,Fiji,94,2,87,0,5,0,0.2,61
 1965,Finland,6907,1972,4694,0,241,0,1.51,21
 1965,Former Democratic Yemen,1044,0,1044,0,0,0,0.77,2812
-1965,Former German Democratic Republic,84654,80744,3037,45,828,0,4.97,0
+1965,Germany,84654,80744,3037,45,828,0,4.97,0
 1965,Former Panama Canal Zone,163,0,162,0,0,0,.,2205
 1965,Former Yemen,28,0,28,0,0,0,0.01,0
 1965,France,95951,48616,41544,2749,3042,0,1.97,2007
@@ -7477,11 +7477,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1966,Ethiopia,225,7,204,0,14,0,0.01,16
 1966,Faeroe Islands,38,2,36,0,0,0,1.04,0
 1966,Falkland Islands (malvinas),3,0,3,0,0,0,1.22,2
-1966,Federal Republic Of Germany,174573,105324,62748,1777,4724,0,2.93,3776
+1966,Germany,174573,105324,62748,1777,4724,0,2.93,3776
 1966,Fiji,88,1,80,0,6,0,0.18,71
 1966,Finland,8050,1853,5983,0,214,0,1.76,26
 1966,Former Democratic Yemen,918,0,918,0,0,0,0.66,3160
-1966,Former German Democratic Republic,85140,80293,3923,46,877,0,5,0
+1966,Germany,85140,80293,3923,46,877,0,5,0
 1966,Former Panama Canal Zone,123,0,123,0,0,0,.,2505
 1966,Former Yemen,27,0,27,0,0,0,0.01,0
 1966,France,94692,44887,43745,2891,3169,0,1.92,2152
@@ -7661,11 +7661,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1967,Ethiopia,293,1,272,0,20,0,0.01,16
 1967,Faeroe Islands,46,1,44,0,0,0,1.23,0
 1967,Falkland Islands (malvinas),5,0,5,0,0,0,2.46,2
-1967,Federal Republic Of Germany,172762,100862,65232,2358,4310,0,2.89,3358
+1967,Germany,172762,100862,65232,2358,4310,0,2.89,3358
 1967,Fiji,97,4,86,0,6,0,0.2,68
 1967,Finland,7804,1800,5798,0,206,0,1.7,26
 1967,Former Democratic Yemen,805,0,805,0,0,0,0.57,1202
-1967,Former German Democratic Republic,82802,77595,4194,37,976,0,4.86,0
+1967,Germany,82802,77595,4194,37,976,0,4.86,0
 1967,Former Panama Canal Zone,124,0,124,0,0,0,.,3296
 1967,Former Yemen,28,0,28,0,0,0,0.01,0
 1967,France,101448,44191,50649,3292,3316,0,2.04,2572
@@ -7844,11 +7844,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1968,Equatorial Guinea,8,0,8,0,0,0,0.03,0
 1968,Ethiopia,471,4,443,0,24,0,0.02,17
 1968,Faeroe Islands,50,1,49,0,0,0,1.33,0
-1968,Federal Republic Of Germany,184911,102321,74146,3896,4548,0,3.07,3708
+1968,Germany,184911,102321,74146,3896,4548,0,3.07,3708
 1968,Fiji,108,1,100,0,7,0,0.22,74
 1968,Finland,9085,2148,6737,0,201,0,1.98,29
 1968,Former Democratic Yemen,3141,0,3141,0,0,0,2.18,80
-1968,Former German Democratic Republic,83909,77707,5122,52,1027,0,4.92,0
+1968,Germany,83909,77707,5122,52,1027,0,4.92,0
 1968,Former Panama Canal Zone,159,0,158,0,0,0,.,3499
 1968,Former Yemen,35,0,35,0,0,0,0.01,0
 1968,France,104890,42370,55164,3903,3453,0,2.1,2930
@@ -8029,11 +8029,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1969,Equatorial Guinea,12,0,12,0,0,0,0.04,0
 1969,Ethiopia,455,7,424,0,23,0,0.02,16
 1969,Faeroe Islands,58,1,57,0,0,0,1.51,0
-1969,Federal Republic Of Germany,199457,106989,82192,5505,4771,0,3.3,4050
+1969,Germany,199457,106989,82192,5505,4771,0,3.3,4050
 1969,Fiji,118,1,111,0,7,0,0.23,86
 1969,Finland,10345,2578,7523,0,244,0,2.25,40
 1969,Former Democratic Yemen,1239,0,1239,0,0,0,0.84,530
-1969,Former German Democratic Republic,87708,80288,6289,123,1008,0,5.14,0
+1969,Germany,87708,80288,6289,123,1008,0,5.14,0
 1969,Former Panama Canal Zone,91,0,90,0,0,0,.,3321
 1969,Former Yemen,37,0,37,0,0,0,0.01,0
 1969,France,112697,42430,61993,4528,3746,0,2.24,3426
@@ -8215,11 +8215,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1970,Ethiopia,451,0,426,0,25,0,0.01,9
 1970,Faeroe Islands,70,1,69,0,0,0,1.82,0
 1970,Falkland Islands (malvinas),3,2,1,0,0,0,1.65,1
-1970,Federal Republic Of Germany,203756,97910,92800,7834,5212,0,3.36,4866
+1970,Germany,203756,97910,92800,7834,5212,0,3.36,4866
 1970,Fiji,142,0,134,0,8,0,0.27,104
 1970,Finland,11016,2356,8404,0,255,0,2.39,105
 1970,Former Democratic Yemen,639,0,639,0,0,0,0.43,365
-1970,Former German Democratic Republic,76323,66728,8219,290,1086,0,4.47,0
+1970,Germany,76323,66728,8219,290,1086,0,4.47,0
 1970,Former Panama Canal Zone,130,0,130,0,0,0,.,3713
 1970,Former Yemen,46,0,46,0,0,0,0.01,0
 1970,France,119720,39840,70785,5149,3945,0,2.36,4366
@@ -8399,11 +8399,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1971,Ethiopia,505,0,476,0,29,0,0.02,11
 1971,Faeroe Islands,71,1,70,0,0,0,1.83,0
 1971,Falkland Islands (malvinas),3,2,1,0,0,0,1.67,1
-1971,Federal Republic Of Germany,205511,93151,96352,10431,5578,0,3.37,5068
+1971,Germany,205511,93151,96352,10431,5578,0,3.37,5068
 1971,Fiji,150,1,137,0,11,0,0.28,128
 1971,Finland,11067,2123,8694,0,250,0,2.39,116
 1971,Former Democratic Yemen,479,0,479,0,0,0,0.31,321
-1971,Former German Democratic Republic,77692,67366,8638,536,1152,0,4.56,0
+1971,Germany,77692,67366,8638,536,1152,0,4.56,0
 1971,Former Panama Canal Zone,131,0,131,0,0,0,.,3513
 1971,Former Yemen,59,0,59,0,0,0,0.01,0
 1971,France,126107,36301,78329,6087,3937,1453,2.46,4579
@@ -8585,11 +8585,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1972,Ethiopia,384,0,358,0,26,0,0.01,16
 1972,Faeroe Islands,64,1,64,0,0,0,1.64,0
 1972,Falkland Islands (malvinas),3,2,1,0,0,0,1.68,1
-1972,Federal Republic Of Germany,207402,86913,101148,13474,5868,0,3.39,5389
+1972,Germany,207402,86913,101148,13474,5868,0,3.39,5389
 1972,Fiji,158,0,146,0,12,0,0.29,101
 1972,Finland,12043,2405,9368,0,270,0,2.59,109
 1972,Former Democratic Yemen,339,0,339,0,0,0,0.22,282
-1972,Former German Democratic Republic,77028,64173,10754,896,1205,0,4.53,0
+1972,Germany,77028,64173,10754,896,1205,0,4.53,0
 1972,Former Panama Canal Zone,193,0,193,0,0,0,.,3267
 1972,Former Yemen,69,0,69,0,0,0,0.01,0
 1972,France,131096,32096,86300,7215,4068,1417,2.54,5356
@@ -8772,11 +8772,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1973,Ethiopia,478,0,461,0,17,0,0.01,15
 1973,Faeroe Islands,69,0,69,0,0,0,1.73,0
 1973,Falkland Islands (malvinas),4,3,1,0,0,0,1.82,1
-1973,Federal Republic Of Germany,218416,89639,106302,16897,5578,0,3.55,5208
+1973,Germany,218416,89639,106302,16897,5578,0,3.55,5208
 1973,Fiji,172,0,160,0,12,0,0.31,136
 1973,Finland,13468,2671,10512,0,285,0,2.88,147
 1973,Former Democratic Yemen,656,0,656,0,0,0,0.41,284
-1973,Former German Democratic Republic,78149,63725,11531,1594,1299,0,4.61,0
+1973,Germany,78149,63725,11531,1594,1299,0,4.61,0
 1973,Former Panama Canal Zone,199,0,199,0,0,0,.,3393
 1973,Former Yemen,89,0,87,0,2,0,0.02,0
 1973,France,140878,31524,95304,8489,4177,1384,2.71,6086
@@ -8958,11 +8958,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1974,Ethiopia,474,0,458,0,16,0,0.01,12
 1974,Faeroe Islands,82,0,82,0,0,0,2.05,0
 1974,Falkland Islands (malvinas),4,3,1,0,0,0,1.83,1
-1974,Federal Republic Of Germany,212052,91716,95038,20405,4893,0,3.44,4785
+1974,Germany,212052,91716,95038,20405,4893,0,3.44,4785
 1974,Fiji,183,5,167,0,11,0,0.32,109
 1974,Finland,12730,2658,9535,237,300,0,2.71,140
 1974,Former Democratic Yemen,512,0,512,0,0,0,0.32,204
-1974,Former German Democratic Republic,78267,62718,11521,2656,1373,0,4.63,0
+1974,Germany,78267,62718,11521,2656,1373,0,4.63,0
 1974,Former Panama Canal Zone,227,0,227,0,0,0,.,3145
 1974,Former Yemen,101,0,93,0,8,0,0.02,1
 1974,France,136098,31610,89948,8829,4398,1312,2.6,5561
@@ -9144,11 +9144,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1975,Ethiopia,330,0,310,0,20,0,0.01,6
 1975,Faeroe Islands,95,0,95,0,0,0,2.36,0
 1975,Falkland Islands (malvinas),4,3,1,0,0,0,1.84,1
-1975,Federal Republic Of Germany,195164,78559,90573,21476,4556,0,3.16,4372
+1975,Germany,195164,78559,90573,21476,4556,0,3.16,4372
 1975,Fiji,170,12,147,0,10,0,0.29,92
 1975,Finland,12572,2455,9448,387,281,0,2.67,196
 1975,Former Democratic Yemen,427,0,427,0,0,0,0.26,263
-1975,Former German Democratic Republic,78745,62265,12268,2763,1449,0,4.67,0
+1975,Germany,78745,62265,12268,2763,1449,0,4.67,0
 1975,Former Panama Canal Zone,304,0,304,0,0,0,.,2793
 1975,Former Yemen,165,0,157,0,8,0,0.03,18
 1975,France,121876,27724,79098,9839,4024,1191,2.31,5374
@@ -9330,11 +9330,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1976,Ethiopia,321,0,301,0,20,0,0.01,21
 1976,Faeroe Islands,90,0,90,0,0,0,2.21,0
 1976,Falkland Islands (malvinas),4,3,1,0,0,0,1.99,1
-1976,Federal Republic Of Germany,217385,88847,101193,22527,4817,0,3.51,4380
+1976,Germany,217385,88847,101193,22527,4817,0,3.51,4380
 1976,Fiji,132,7,116,0,9,0,0.22,100
 1976,Finland,13984,3336,9983,416,248,0,2.96,239
 1976,Former Democratic Yemen,501,0,501,0,0,0,0.3,554
-1976,Former German Democratic Republic,80724,62891,13261,3028,1543,0,4.8,0
+1976,Germany,80724,62891,13261,3028,1543,0,4.8,0
 1976,Former Panama Canal Zone,278,0,278,0,0,0,.,2405
 1976,Former Yemen,199,0,191,0,8,0,0.04,5
 1976,France,137879,32657,89359,10574,3998,1292,2.6,5917
@@ -9516,11 +9516,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1977,Ethiopia,286,0,276,0,10,0,0.01,17
 1977,Faeroe Islands,111,0,111,0,0,0,2.7,0
 1977,Falkland Islands (malvinas),4,3,1,0,0,0,2,1
-1977,Federal Republic Of Germany,204846,77359,99202,23741,4543,0,3.31,4560
+1977,Germany,204846,77359,99202,23741,4543,0,3.31,4560
 1977,Fiji,209,14,185,0,10,0,0.35,82
 1977,Finland,13695,3210,9783,469,233,0,2.89,296
 1977,Former Democratic Yemen,577,0,577,0,0,0,0.33,581
-1977,Former German Democratic Republic,82873,63647,14561,3019,1646,0,4.94,0
+1977,Germany,82873,63647,14561,3019,1646,0,4.94,0
 1977,Former Panama Canal Zone,309,0,309,0,0,0,.,1783
 1977,Former Yemen,236,0,228,0,8,0,0.04,9
 1977,France,131131,31836,83069,11017,3921,1288,2.46,6105
@@ -9702,11 +9702,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1978,Ethiopia,374,0,362,0,12,0,0.01,17
 1978,Faeroe Islands,109,0,109,0,0,0,2.61,0
 1978,Falkland Islands (malvinas),4,3,1,0,0,0,2.01,1
-1978,Federal Republic Of Germany,211348,79141,101536,25870,4801,0,3.42,4464
+1978,Germany,211348,79141,101536,25870,4801,0,3.42,4464
 1978,Fiji,194,18,165,0,11,0,0.32,90
 1978,Finland,14157,4199,9216,510,232,0,2.98,330
 1978,Former Democratic Yemen,588,0,588,0,0,0,0.33,583
-1978,Former German Democratic Republic,83690,63801,15324,2861,1703,0,4.99,0
+1978,Germany,83690,63801,15324,2861,1703,0,4.99,0
 1978,Former Panama Canal Zone,297,0,297,0,0,0,.,1625
 1978,Former Yemen,259,0,250,0,9,0,0.04,16
 1978,France,137949,31217,89661,11984,3811,1275,2.58,5598
@@ -9888,11 +9888,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1979,Ethiopia,504,0,491,0,13,0,0.01,14
 1979,Faeroe Islands,131,0,131,0,0,0,3.09,0
 1979,Falkland Islands (malvinas),4,3,1,0,0,0,2.03,1
-1979,Federal Republic Of Germany,220557,85387,101810,28322,5037,0,3.58,4611
+1979,Germany,220557,85387,101810,28322,5037,0,3.58,4611
 1979,Fiji,229,17,199,0,13,0,0.37,88
 1979,Finland,14817,4494,9573,513,238,0,3.11,599
 1979,Former Democratic Yemen,594,0,594,0,0,0,0.33,609
-1979,Former German Democratic Republic,85134,64496,15981,2988,1669,0,5.08,0
+1979,Germany,85134,64496,15981,2988,1669,0,5.08,0
 1979,Former Panama Canal Zone,280,0,280,0,0,0,.,1711
 1979,Former Yemen,285,0,273,0,12,0,0.05,17
 1979,France,144302,34091,92044,13228,3920,1020,2.69,5919
@@ -10074,11 +10074,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1980,Ethiopia,497,0,482,0,15,0,0.01,21
 1980,Faeroe Islands,115,0,115,0,0,0,2.68,0
 1980,Falkland Islands (malvinas),4,3,1,0,0,0,2.04,1
-1980,Federal Republic Of Germany,214599,85710,96328,27912,4649,0,3.49,4695
+1980,Germany,214599,85710,96328,27912,4649,0,3.49,4695
 1980,Fiji,217,15,191,0,11,0,0.34,88
 1980,Finland,15884,5462,9694,482,247,0,3.32,639
 1980,Former Democratic Yemen,579,0,579,0,0,0,0.31,609
-1980,Former German Democratic Republic,86252,64720,16242,3598,1692,0,5.15,0
+1980,Germany,86252,64720,16242,3598,1692,0,5.15,0
 1980,Former Yemen,326,0,315,0,11,0,0.05,17
 1980,France,137814,34151,85540,13400,3958,765,2.56,5066
 1980,French Guiana,102,0,102,0,0,0,1.51,0
@@ -10259,11 +10259,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1981,Ethiopia,509,0,491,0,18,0,0.01,32
 1981,Faeroe Islands,120,0,120,0,0,0,2.76,0
 1981,Falkland Islands (malvinas),7,3,3,0,0,0,3.53,1
-1981,Federal Republic Of Germany,200278,87268,82730,25996,4284,0,3.26,4903
+1981,Germany,200278,87268,82730,25996,4284,0,3.26,4903
 1981,Fiji,295,13,269,0,13,0,0.45,21
 1981,Finland,14047,4780,8637,383,247,0,2.93,624
 1981,Former Democratic Yemen,783,0,783,0,0,0,0.41,173
-1981,Former German Democratic Republic,86520,64956,15878,4026,1660,0,5.17,0
+1981,Germany,86520,64956,15878,4026,1660,0,5.17,0
 1981,Former Yemen,371,0,360,0,11,0,0.06,17
 1981,France,123998,30062,75916,13671,3839,510,2.29,4876
 1981,French Guiana,89,0,89,0,0,0,1.25,0
@@ -10445,11 +10445,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1982,Ethiopia,404,0,384,0,20,0,0.01,54
 1982,Faeroe Islands,125,0,125,0,0,0,2.85,0
 1982,Falkland Islands (malvinas),6,2,3,0,0,0,3.14,1
-1982,Federal Republic Of Germany,191092,84345,78732,23924,4091,0,3.12,4474
+1982,Germany,191092,84345,78732,23924,4091,0,3.12,4474
 1982,Fiji,229,17,200,0,12,0,0.34,77
 1982,Finland,11749,3284,7852,361,253,0,2.43,699
 1982,Former Democratic Yemen,1088,0,1088,0,0,0,0.55,361
-1982,Former German Democratic Republic,86780,65986,15281,3919,1594,0,5.19,0
+1982,Germany,86780,65986,15281,3919,1594,0,5.19,0
 1982,Former Yemen,534,0,502,0,32,0,0.08,34
 1982,France,119142,30931,71218,13182,3556,255,2.19,4220
 1982,French Guiana,99,0,99,0,0,0,1.33,11
@@ -10631,11 +10631,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1983,Ethiopia,503,0,480,0,23,0,0.01,22
 1983,Faeroe Islands,133,0,133,0,0,0,3,0
 1983,Falkland Islands (malvinas),6,3,3,0,0,0,3.41,1
-1983,Federal Republic Of Germany,190549,84933,76728,24745,4143,0,3.12,4294
+1983,Germany,190549,84933,76728,24745,4143,0,3.12,4294
 1983,Fiji,195,13,167,0,15,0,0.29,59
 1983,Finland,11338,3501,7228,350,259,0,2.34,710
 1983,Former Democratic Yemen,1047,0,1047,0,0,0,0.52,284
-1983,Former German Democratic Republic,86254,66197,14265,4191,1602,0,5.16,0
+1983,Germany,86254,66197,14265,4191,1602,0,5.16,0
 1983,Former Yemen,679,0,563,0,116,0,0.1,34
 1983,France,115245,27550,69868,14494,3333,0,2.11,3820
 1983,French Guiana,105,0,105,0,0,0,1.34,9
@@ -10816,11 +10816,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1984,Ethiopia,454,0,421,0,33,0,0.01,51
 1984,Faeroe Islands,136,0,136,0,0,0,3.02,0
 1984,Falkland Islands (malvinas),7,3,3,0,0,0,3.54,1
-1984,Federal Republic Of Germany,193819,87166,77263,25458,3932,0,3.17,4245
+1984,Germany,193819,87166,77263,25458,3932,0,3.17,4245
 1984,Fiji,159,16,130,0,13,0,0.23,74
 1984,Finland,11523,4103,6796,399,224,0,2.36,859
 1984,Former Democratic Yemen,1152,0,1152,0,0,0,0.55,361
-1984,Former German Democratic Republic,88909,69038,14137,4163,1571,0,5.33,0
+1984,Germany,88909,69038,14137,4163,1571,0,5.33,0
 1984,Former Yemen,804,0,615,0,189,0,0.11,34
 1984,France,110538,26719,66093,14637,3090,0,2.01,3672
 1984,French Guiana,97,0,97,0,0,0,1.18,8
@@ -11001,11 +11001,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1985,Ethiopia,495,0,461,0,34,0,0.01,37
 1985,Faeroe Islands,141,0,141,0,0,0,3.11,0
 1985,Falkland Islands (malvinas),8,4,4,0,0,0,4.24,1
-1985,Federal Republic Of Germany,192459,84708,78492,25755,3503,0,3.15,4994
+1985,Germany,192459,84708,78492,25755,3503,0,3.15,4994
 1985,Fiji,158,12,133,0,13,0,0.22,75
 1985,Finland,13544,5194,7622,508,219,0,2.76,540
 1985,Former Democratic Yemen,1500,0,1500,0,0,0,0.7,365
-1985,Former German Democratic Republic,93226,73418,14363,3866,1579,0,5.6,0
+1985,Germany,93226,73418,14363,3866,1579,0,5.6,0
 1985,Former Yemen,861,0,671,0,190,0,0.11,38
 1985,France,109321,26066,64817,15236,3202,0,1.98,3916
 1985,French Guiana,100,0,100,0,0,0,1.15,7
@@ -11187,11 +11187,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1986,Ethiopia,604,0,567,0,37,0,0.01,77
 1986,Faeroe Islands,134,0,134,0,0,0,2.9,0
 1986,Falkland Islands (malvinas),9,4,5,0,0,0,4.66,1
-1986,Federal Republic Of Germany,192504,82492,83249,23148,3615,0,3.15,6088
+1986,Germany,192504,82492,83249,23148,3615,0,3.15,6088
 1986,Fiji,165,11,141,0,13,0,0.23,116
 1986,Finland,14543,4639,9094,617,193,0,2.96,587
 1986,Former Democratic Yemen,1395,0,1395,0,0,0,0.63,266
-1986,Former German Democratic Republic,94166,74103,14139,4295,1630,0,5.68,0
+1986,Germany,94166,74103,14139,4295,1630,0,5.68,0
 1986,Former Yemen,860,0,702,0,158,0,0.11,43
 1986,France,105158,21323,65444,15196,3195,0,1.89,3970
 1986,French Guiana,100,0,100,0,0,0,1.08,7
@@ -11374,11 +11374,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1987,Ethiopia,704,0,656,0,48,0,0.02,63
 1987,Faeroe Islands,136,0,136,0,0,0,2.92,0
 1987,Falkland Islands (malvinas),10,4,6,0,0,0,5.07,1
-1987,Federal Republic Of Germany,188526,78570,80521,25633,3436,366,3.09,5438
+1987,Germany,188526,78570,80521,25633,3436,366,3.09,5438
 1987,Fiji,130,4,118,0,8,0,0.18,86
 1987,Finland,15723,5548,9163,817,194,0,3.18,588
 1987,Former Democratic Yemen,1453,0,1453,0,0,0,0.64,270
-1987,Former German Democratic Republic,94070,74329,13784,4265,1691,0,5.7,0
+1987,Germany,94070,74329,13784,4265,1691,0,5.7,0
 1987,Former Yemen,915,0,812,0,103,0,0.11,43
 1987,France,102943,19670,65712,14358,3204,0,1.84,4550
 1987,French Guiana,114,0,114,0,0,0,1.15,9
@@ -11561,11 +11561,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1988,Ethiopia,729,0,674,0,55,0,0.02,49
 1988,Faeroe Islands,144,0,144,0,0,0,3.04,0
 1988,Falkland Islands (malvinas),11,4,8,0,0,0,5.89,1
-1988,Federal Republic Of Germany,189664,78666,81963,25140,3565,330,3.1,5101
+1988,Germany,189664,78666,81963,25140,3565,330,3.1,5101
 1988,Fiji,151,3,142,0,6,0,0.21,68
 1988,Finland,14231,5386,7765,875,205,0,2.87,631
 1988,Former Democratic Yemen,1690,0,1690,0,0,0,0.72,257
-1988,Former German Democratic Republic,92068,72224,13905,4237,1702,0,5.62,0
+1988,Germany,92068,72224,13905,4237,1702,0,5.62,0
 1988,Former Yemen,929,0,841,0,88,0,0.11,43
 1988,France,101502,20057,63711,14293,3441,0,1.81,4722
 1988,French Guiana,141,0,141,0,0,0,1.33,10
@@ -11748,11 +11748,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1989,Ethiopia,771,0,720,0,51,0,0.02,50
 1989,Faeroe Islands,158,0,158,0,0,0,3.32,0
 1989,Falkland Islands (malvinas),11,4,8,0,0,0,5.78,0
-1989,Federal Republic Of Germany,186289,78408,74634,29210,3876,161,3.04,5057
+1989,Germany,186289,78408,74634,29210,3876,161,3.04,5057
 1989,Fiji,172,12,152,0,8,0,0.24,97
 1989,Finland,14340,5187,7774,1163,217,0,2.89,694
 1989,Former Democratic Yemen,1772,0,1772,0,0,0,0.73,232
-1989,Former German Democratic Republic,91100,70822,14548,4062,1668,0,5.59,0
+1989,Germany,91100,70822,14548,4062,1668,0,5.59,0
 1989,Former Yemen,954,0,859,0,95,0,0.11,43
 1989,France,106531,21384,66761,14737,3649,0,1.89,4325
 1989,French Guiana,183,0,183,0,0,0,1.64,13
@@ -11935,11 +11935,11 @@ Year,Country,Total,Solid Fuel,Liquid Fuel,Gas Fuel,Cement,Gas Flaring,Per Capita
 1990,Ethiopia,823,0,777,0,46,0,0.02,53
 1990,Faeroe Islands,170,0,170,0,0,0,3.57,0
 1990,Falkland Islands (malvinas),10,4,7,0,0,0,5.21,0
-1990,Federal Republic Of Germany,191890,79117,78159,30148,4148,317,3.13,5065
+1990,Germany,191890,79117,78159,30148,4148,317,3.13,5065
 1990,Fiji,223,17,194,0,11,0,0.31,74
 1990,Finland,14111,5521,6999,1363,227,0,2.83,769
 1990,Former Democratic Yemen,1590,0,1590,0,0,0,0.64,292
-1990,Former German Democratic Republic,84557,65097,14761,3717,983,0,5.2,0
+1990,Germany,84557,65097,14761,3717,983,0,5.2,0
 1990,Former Yemen,1027,0,914,0,113,0,0.11,43
 1990,France,102436,20441,62146,16259,3590,0,1.81,4786
 1990,French Guiana,222,0,222,0,0,0,1.9,15
